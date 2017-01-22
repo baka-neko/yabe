@@ -2,6 +2,9 @@
 <module relativePaths="true" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
+    <content url="file://C:/tmp/play_framework/modules/crud">
+      <sourceFolder url="file://C:/tmp/play_framework/modules/crud/app" isTestSource="false" />
+    </content>
     <content url="file://C:/tmp/play_framework/modules/docviewer">
       <sourceFolder url="file://C:/tmp/play_framework/modules/docviewer/app" isTestSource="false" />
     </content>
@@ -21,7 +24,7 @@
         <SOURCES>
           <root url="file://C:/tmp/play_framework/modules/docviewer/src" />
         </SOURCES>
-        <jarDirectory url="file://C:/tmp/play_framework/modules/docviewer/lib" recursive="false" />
+        <jarDirectory url="file://C:tmp/play_framework/modules/docviewer/lib" recursive="false" />
         <jarDirectory url="file://$MODULE_DIR$/lib" recursive="false" />
       </library>
     </orderEntry>
@@ -49,7 +52,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://C:/tmp/play_framework/modules/testrunner/lib/play-testrunner.jar!/" />
+          <root url="jar://C:/tmp/play_framework/modules/docviewer/lib/play-docviewer.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
