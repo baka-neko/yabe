@@ -3,3 +3,5 @@
 require:
     - play -> crud
     - play
+# Import the secure module
+    - secure
